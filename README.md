@@ -28,7 +28,8 @@ R_{XX}(\tau)=IFT[S_{XX}(\omega)]
 =\frac{1}{2\pi}\int_{-\infty}^{\infty}S_{XX}(\omega)e^{j\omega\tau}d\omega
 $$
 
-## ALGORITHM
+
+
 
 ### 1. Load or Define the Signal:
 
@@ -57,3 +58,4 @@ Visualize the autocorrelation function and PSD.
 - Verify the generated waveform using Tabulation and Model Waveform.
 
 ## MODEL GRAPH
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/c5e5c608-4f11-4db7-b748-1ec78de8ae70" />
